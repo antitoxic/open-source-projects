@@ -1,4 +1,11 @@
-# The breakproof base monorepo
+# `@antitoxic`'s open source frontend-related projects
+
+To remove the hassle of maintaining multiple repositories I'm going to move the
+following projects in this repo:
+
+ - https://github.com/antitoxic/import-single-ts
+ - https://github.com/antitoxic/prerender-spa-ultra
+ - https://github.com/antitoxic/mac-openchrometab
 
 [↬ Repository goals and how it works. ](./docs/breakproof-repo-base.README.md)
 
